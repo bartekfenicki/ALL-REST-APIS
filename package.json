@@ -2,7 +2,7 @@
   "name": "all-rest-apis",
   "version": "1.0.0",
   "description": "rest api for my football app",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "rm -rf ./dist && tsc",
     "start-dev": "npx nodemon",
